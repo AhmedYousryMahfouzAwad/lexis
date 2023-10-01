@@ -1,0 +1,204 @@
+header{
+    min-height: 100vh;
+    background-image:  url(../images/empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.png);
+    background-position: center;
+    background-size: cover;
+}
+.card1{
+    height: 40px;
+     
+}
+.card11
+{
+   margin-top: 20%;
+   background-color: #DAD9D7;
+   border: #DAD9D7;
+}
+.img1header{
+   margin-right:10%;
+}
+.divheader{ padding-top:20% ;
+
+}
+.bt{opacity: 1.0;
+    
+    
+} 
+.bt:hover{opacity: 0.4;
+    border: solid red;
+   
+}
+
+.CC{
+    background-color: rgb(253, 208, 7);
+    width:60px;
+}
+.col2{
+    padding-left: 15%;
+}
+.sectionpic{
+    background-color: #727272;
+}
+.pragraf {
+    padding-left: 32%;
+}
+.meal{
+    padding: 0;
+}
+.meal img{
+    width: 100%;
+}
+.HIGH{
+    height: 100%;
+}
+.btnall{
+    width: 150px;
+    margin:auto ;
+    margin-top: 30%;
+    height: 60px;
+        
+    
+}
+
+footer{
+    background-color: #E58671;
+}
+.text{
+   color: #727272;
+}
+.pic{
+    padding-left: 10%;
+    padding-top: 10%;
+
+    
+   
+}
+.ibuton{
+    color: rgb(4, 245, 4);
+}
+.img{
+    width: 20px;
+}
+.pragraff{
+    font-size:  small;
+    padding-top: 20px;
+}
+.ss{
+    padding-left: 80%;
+}
+#mealx{
+ 
+    margin-bottom: 20%;
+}
+.inputour{
+    border:  #f8bbae solid;
+    height: 40px;
+    width: 270px;
+    background-color:#E1E1E0 ;
+    color: dimgrey;
+   
+
+}.mmm{
+   
+   float: right;
+   
+
+}
+.contuct{ background-color: #b3b3b3;
+    width: 900px;
+    height: 500px;
+   
+    margin-left: 15%;
+    position: relative;
+    z-index: 1;
+   
+    
+    
+ 
+
+}
+.gfrom{
+   
+    padding-left: 20%;
+}
+.botton{
+    width: 300px;
+    height: 50px;
+    border-radius: 2px  ;
+    border: #727272;
+    width: 400px;
+     
+
+ 
+}
+.botton1{
+    border-radius: 2px;
+    background-color: #E58671;
+    height: 50px;
+
+}
+
+
+ 
+.botton2{
+    border-radius: 2px;
+    
+   
+}
+ .numberx
+ {
+     background-color: darkgrey;
+     border-radius:100%;
+     width: 35px;
+     height: 35px;
+     border-style: none;
+    
+     position: relative;
+     z-index: 1;
+
+
+ }
+
+.inputour1{
+    border:  #E58671 solid;
+    height: 40px;
+    width: 270px;
+    background-color:#fffffa ;
+    color: #E58671 ;
+    
+}
+.heart{
+     color: rgb(172, 170, 170);
+}
+.eyes{
+    color: rgb(172, 170, 170);
+}
+
+.son{
+    position: absolute;
+    z-index: 2;
+    padding: 20px;
+    left: -140px;
+    top: 12%;
+    width: 300px;
+    height: 380px;
+    background-color: #E58671;
+
+}
+
+ 
+   
+
+ 
+
+ 
+ 
+    
+   
+
+    
+    
+ 
+ 
+
+ 
